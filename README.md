@@ -1,4 +1,4 @@
-Creating a Movie Search App with ReactJS, HTML, CSS, and Tailwind CSS
+# Movie Search App with ReactJS, HTML, CSS, and Tailwind CSS
 
 ## Overview
 
